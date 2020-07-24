@@ -1,0 +1,18 @@
+.app {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.search-location-input input { 
+  width: 300px;
+  margin-top:10px;
+}
+
+.info {
+  margin-top: 10px;
+}
+
+.image-container {
+  height: 300px;
+}
